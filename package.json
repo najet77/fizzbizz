@@ -1,0 +1,8 @@
+{
+  "name": "fizzbizz",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/najet77/fizzbizz.git",
+  "author": "najet77 <soussinajet91@gmail.com>",
+  "license": "MIT"
+}
