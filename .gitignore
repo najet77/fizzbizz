@@ -1,0 +1,4 @@
+#files and directories to ignore when commit.
+/node_modules
+package-lock.json
+yarn.lock
